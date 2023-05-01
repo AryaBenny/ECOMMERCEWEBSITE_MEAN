@@ -6,10 +6,6 @@
 
 ### Website Name: The Furniture Mart
 
-### Project in action
-
-[![Project Demo](https://i9.ytimg.com/vi/6QQDTwElYGI/mq2.jpg?sqp=CPfljfYF&rs=AOn4CLCOR1XxKEn8ym-_xTQ6XC6tmwRa3Q)](https://www.youtube.com/watch?v=6QQDTwElYGI)
-
 ### Description:
 
 The project is “The Furniture Mart” web application which provides a platform for buying and selling of furniture like Bookshelf, Mattress and Bed etc.
