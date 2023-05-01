@@ -9,7 +9,8 @@
 ### Description:
 
 The project is “The Furniture Mart” web application which provides a platform for buying and selling of furniture like Bookshelf, Mattress and Bed etc.
-Assumptions:
+
+### Assumptions:
 Admin account is pre-created.
 
 The following functionalities are supported:
