@@ -43,8 +43,8 @@ We used Mongo DB for database implementation and hosted data on Atlas cluster.
 
 ### Technologies:
 
-Front-end: HTML, CSS, Bootstrap, AngularJS, AJAX, JQuery 
+Front-end: HTML, CSS, Bootstrap, AngularJS, AJAX, JQuery. 
 
-Back-end: NodeJS, ExpressJS, MongoDB, MongoDB Atlas Service
+Back-end: NodeJS, ExpressJS, MongoDB, MongoDB Atlas Service.
 
 > Note: Please enter credentials in seller.js and config.js for code to work properly.
